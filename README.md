@@ -1,8 +1,4 @@
 # octo-waffle
-test workshop repo
+My son requested a superhero cape at 10pm last night.
 
-A remote change.
-
-A local change in the workshop.
-
-This is another change I'm making to my file on GitHub.
+I made one.
